@@ -1,5 +1,3 @@
-URL da Heroku:
-[URL]
+URL da Heroku: https://trabalho-sd-leosks.herokuapp.com/
 
-URL do GIT: 
-[URL]
+URL do GIT: https://github.com/Leosks/trabalhoSD
